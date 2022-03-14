@@ -1,0 +1,16 @@
+body{
+  background-color: white;
+}
+
+h1{
+  color: #8B4513;
+}
+
+hr{
+  /* background-color: white; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 70%
+}
